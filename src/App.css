@@ -1,11 +1,14 @@
-*{
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-}
+
 .App {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  
+}
+
+h1{
+  font-family: 'Bigelow Rules';
+  font-size: 72px;
+  color: #0ccac4;
 }
